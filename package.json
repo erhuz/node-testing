@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "semistandard --verbose | snazzy && ava"
+  },
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "unique-random-array": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "semistandard": "^13.0.1",
+    "snazzy": "^8.0.0"
+  }
+}
