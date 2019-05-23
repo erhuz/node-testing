@@ -4,7 +4,6 @@
     "test": "semistandard --verbose | snazzy && ava"
   },
   "dependencies": {
-    "babel-eslint": "^10.0.1",
     "unique-random-array": "^2.0.0"
   },
   "devDependencies": {
